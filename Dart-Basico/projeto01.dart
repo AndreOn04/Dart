@@ -1,20 +1,4 @@
 void main() {
-  String linguagem = 'Dart';
-
-  switch( linguagem ) {
-    case 'Dart':
-      print('Linguagem muito boa');
-      break;
-    case 'Kotlin':
-      print('Linguagem maneira');
-      break;
-    case 'Java':
-      print('Linguagem horrível');
-      break;
-    default:
-      print('Desconhecida');
-  }
-
   String nome = "Marcio André"; // Criando uma variável "nome" tipos "String"
 
   print(
