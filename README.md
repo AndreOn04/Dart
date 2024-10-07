@@ -51,3 +51,7 @@ Para rodar qualquer arquivo Dart, use o seguinte comando no terminal:
 ```
 dart run lib/caminho/arquivo.dart
 ```
+### Para rodar a calculadora no seu terminal, execute. 
+```
+dart run lib/calculator/calculator.dart
+```
