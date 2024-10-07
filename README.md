@@ -21,7 +21,7 @@ Este repositório cobre os seguintes tópicos:
 1. Sintaxe Básica do Dart: Variáveis, operadores, tipos de dados.
 2. Estruturas de Controle: if, else, switch, laços como for, while, do-while.
 3. Funções: Definição de funções nomeadas e anônimas, funções com retorno e parâmetros.
-4. Coleções: Trabalhando com Listas, Mapas, e Sets.
+4. Coleções: Trabalhando com Listas, Mapas.
 5. Orientação a Objetos: Classes, objetos, herança, polimorfismo.
 6. Tratamento de Exceções: Usando try, catch e finally.
 7. Projeto de Calculadora: Um projeto simples que faz cálculos básicos no terminal.
