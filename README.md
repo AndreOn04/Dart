@@ -15,7 +15,16 @@ Este repositório contém uma coleção de códigos em Dart que foram criados pa
 ---
 
 ## Visão Geral
-Este repositório foi criado para quem está iniciando em Dart, uma linguagem de programação moderna desenvolvida pelo Google. Através dos exemplos aqui contidos, é possível entender a sintaxe básica da linguagem, incluindo estruturas de controle, listas, mapas, funções e muito mais. O repositório também inclui um projeto de uma calculadora simples que roda no terminal.
+Principais Funcionalidades
+Este repositório cobre os seguintes tópicos:
+
+1. Sintaxe Básica do Dart: Variáveis, operadores, tipos de dados.
+2. Estruturas de Controle: if, else, switch, laços como for, while, do-while.
+3. Funções: Definição de funções nomeadas e anônimas, funções com retorno e parâmetros.
+4. Coleções: Trabalhando com Listas, Mapas, e Sets.
+5. Orientação a Objetos: Classes, objetos, herança, polimorfismo.
+6. Tratamento de Exceções: Usando try, catch e finally.
+7. Projeto de Calculadora: Um projeto simples que faz cálculos básicos no terminal.
 
 ## Requisitos
 Para rodar os códigos contidos neste repositório, você precisará de:
