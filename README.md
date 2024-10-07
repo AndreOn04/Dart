@@ -6,7 +6,7 @@ Este repositório contém uma coleção de códigos em Dart que foram criados pa
 1. [Visão Geral](#visão-geral)
 2. [Requisitos](#requisitos)
 3. [Instalação e Configuração](#instalação-e-configuração)
-5. [Executar Arquivos](#execução-dos-códigos)
+5. [Executar um Arquivos](#executar-arquivos)
 
 ---
 
