@@ -8,9 +8,6 @@ Este repositório contém uma coleção de códigos em Dart que foram criados pa
 3. [Instalação e Configuração](#instalação-e-configuração)
 4. [Estrutura do Projeto](#estrutura-do-projeto)
 5. [Execução dos Códigos](#execução-dos-códigos)
-6. [Principais Funcionalidades](#principais-funcionalidades)
-7. [Próximos Passos](#próximos-passos)
-8. [Contribuições](#contribuições)
 
 ---
 
