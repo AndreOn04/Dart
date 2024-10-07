@@ -46,4 +46,8 @@ Entre na pasta do projeto:
 ```
 cd nome-do-repositorio
 ```
-
+### 4. Executar um Arquivo Dart
+Para rodar qualquer arquivo Dart, use o seguinte comando no terminal:
+```
+dart run lib/caminho/arquivo.dart
+```
