@@ -40,4 +40,7 @@ Se você ainda não tem o Dart instalado, siga os passos na [documentação ofic
 Clone este repositório para a sua máquina local usando o Git:
 ``bash git clone https://github.com/seu-usuario/nome-do-repositorio.git ``
 
+### 3. Navegar até o Diretório
+Entre na pasta do projeto:
+```cd nome-do-repositorio```
 
