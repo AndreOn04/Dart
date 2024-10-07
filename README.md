@@ -2,12 +2,6 @@
 
 Este repositório contém uma coleção de códigos em Dart que foram criados para fins de aprendizado. Explorando exemplos práticos, como a implementação de uma calculadora que roda no terminal.
 
-## Índice
-1. [Visão Geral](#visão-geral)
-2. [Requisitos](#requisitos)
-3. [Instalação e Configuração](#instalação-e-configuração)
-5. [Executar um Arquivos](#executar-arquivos)
-
 ---
 
 ## Visão Geral
