@@ -2,6 +2,17 @@
 
 Este repositório contém uma coleção de códigos em Dart que foram criados para fins de aprendizado. Explorando exemplos práticos, como a implementação de uma calculadora que roda no terminal.
 
+## Índice
+1. [Visão Geral](#visão-geral)
+   - [Principais Funcionalidades](#principais-funcionalidades)
+2. [Requisitos](#requisitos)
+3. [Instalação e Configuração](#instalação-e-configuração)
+   - [1. Instalar o Dart SDK](#1-instalar-o-dart-sdk)
+   - [2. Clonar o Repositório](#2-clonar-o-repositório)
+   - [3. Navegar até o Diretório](#3-navegar-até-o-diretório)
+   - [4. Executar um Arquivo Dart](#4-executar-um-arquivo-dart)
+4. [Executar a Calculadora](#executar-a-calculadora)
+
 ---
 
 ## Visão Geral
