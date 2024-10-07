@@ -1,6 +1,6 @@
 # Primeiros Passos em Dart
 
-Este repositório contém uma coleção de códigos em Dart que foram criados para fins de aprendizado. O projeto está organizado de maneira que qualquer iniciante possa começar a aprender Dart, explorando exemplos práticos, como a implementação de uma calculadora que roda no terminal.
+Este repositório contém uma coleção de códigos em Dart que foram criados para fins de aprendizado. Explorando exemplos práticos, como a implementação de uma calculadora que roda no terminal.
 
 ## Índice
 1. [Visão Geral](#visão-geral)
