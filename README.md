@@ -41,4 +41,3 @@ Clone este repositório para a sua máquina local usando o Git:
 ```bash
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
-###3. Navegar até o Diretório
