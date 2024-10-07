@@ -6,8 +6,7 @@ Este repositório contém uma coleção de códigos em Dart que foram criados pa
 1. [Visão Geral](#visão-geral)
 2. [Requisitos](#requisitos)
 3. [Instalação e Configuração](#instalação-e-configuração)
-4. [Estrutura do Projeto](#estrutura-do-projeto)
-5. [Execução dos Códigos](#execução-dos-códigos)
+5. [Executar Arquivos](#execução-dos-códigos)
 
 ---
 
@@ -49,6 +48,7 @@ Para rodar qualquer arquivo Dart, use o seguinte comando no terminal:
 dart run lib/caminho/arquivo.dart
 ```
 ### Para rodar a calculadora no seu terminal, execute. 
+A calculadora é um exemplo simples que roda no terminal e realiza operações matemáticas básicas. Para executar a calculadora, navegue até o diretório calculator e rode o arquivo calculator.dart:
 ```
 dart run lib/calculator/calculator.dart
 ```
