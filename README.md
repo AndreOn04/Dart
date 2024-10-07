@@ -43,5 +43,7 @@ git clone https://github.com/seu-usuario/nome-do-repositorio.git
 ```
 ### 3. Navegar até o Diretório
 Entre na pasta do projeto:
-```cd nome-do-repositorio```
+```
+cd nome-do-repositorio
+```
 
