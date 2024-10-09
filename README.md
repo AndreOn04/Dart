@@ -1,4 +1,4 @@
-# Primeiros Passos em Dart 🎯
+# Primeiros Passos em Dart 
 
 Este repositório contém uma coleção de códigos em Dart que foram criados para fins de aprendizado. Explorando exemplos práticos, como a implementação de uma calculadora que roda apenas no terminal.
 
