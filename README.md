@@ -43,23 +43,17 @@ git clone https://github.com/seu-usuario/nome-do-repositorio.git
 ### 3. Navegar até o Diretório
 Entre na pasta do projeto:
 ```
-
 cd nome-do-repositorio
-
 ```
 
 ### 4. Executar um Arquivo Dart
 Para rodar qualquer arquivo Dart, use o seguinte comando no terminal:
 ```
-
 dart run lib/caminho/arquivo.dart
-
 ```
 ### Execução dos Códigos
 ## Rodando o Projeto de Calculadora
 A calculadora é um exemplo simples que roda no terminal e realiza operações matemáticas básicas. Para executar a calculadora, navegue até o diretório calculator e rode o arquivo calculator.dart:
 ```
-
 dart run lib/calculator/calculator.dart
-
 ```
