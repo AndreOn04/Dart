@@ -16,7 +16,7 @@ void main() {
   double resultado;
 
   // Agora vamos verificar qual operação foi escolhida pelo usuário.
-  switch(operacao) {
+  switch (operacao) {
     case '+':
       resultado = adicionar(num1, num2);
       break;
@@ -49,13 +49,13 @@ double subtrair(double a, double b) {
 }
 
 // Função para multiplicar dois números.
-double multiplicar (double a, double b) {
+double multiplicar(double a, double b) {
   return a * b;
 }
 
 // Função para dividir dois números.
 double dividir(double a, double b) {
-  if ( b == 0 ) {
+  if (b == 0) {
     print('Error! Divisão zero.');
     return 0;
   }

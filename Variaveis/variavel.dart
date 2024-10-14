@@ -12,15 +12,17 @@ void main() {
   sobrenome = 'Da Silva Figueiredo';
   idade = 20;
 
-  if ( nome != null ) {  // Verificação se "nome" for diferente de nulo
-    print('Seu nome completo é:  $nome $sobrenome e você tem $idade anos'); // Mostra essa mensagem no console
-  } else { // caso acontrário
+  if (nome != null) {
+    // Verificação se "nome" for diferente de nulo
+    print(
+        'Seu nome completo é:  $nome $sobrenome e você tem $idade anos'); // Mostra essa mensagem no console
+  } else {
+    // caso acontrário
     print('Valor nulo'); // Está mensagem será impresa no console
   }
-
 }
 
-void saudacoes( String? cliente ) {
+void saudacoes(String? cliente) {
   if (cliente != null) {
     print(' Olá, seja bem-vindo(a) ${cliente.toUpperCase()}  ');
   } else {
